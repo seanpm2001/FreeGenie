@@ -1,20 +1,44 @@
 ////URLL-version=3;
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: FreeGenie_REPOLIST.urll
-//// URL list for FreeGenie repositories
-//// 4 total repository links (as of 2023, Friday, August 25th at 04:52 pm PST), Version 1.
+//// A list of all FreeGenie project repositories by @seanpm2001
+//// As of 2025, Wednesday, October 22nd
 
-//// FreeGenie main (1)
+//// FreeGenie Main (1)
 
 https://github.com/seanpm2001/FreeGenie
 
-//// FreeGenie Documentation (1)
+//// FreeGenie Core documentation (1)
 
 https://github.com/seanpm2001/FreeGenie_Docs
 
-//// File info:
+//// FreeGenie Website (1)
 
-//// File version: 1 (2023, Friday, August 25th at 04:52 pm PST)
-//// Line count (including blank lines and compiler line): 21
+https://github.com/seanpm2001/FreeGenie_Website
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (FreeGenie): 3
+//// 1+1+1=3
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// See also (1)
+
+https://github.com/seanpm2001/FreeGenie
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (See also): 1
+//// 1+0=1
+//// ----------------------------------------------------- \\\\
+//// Total repo count: 4
+//// 3+1=4
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// File info
+//// File type: URLL v3 list file (*.urll)
+//// File version: 2 (2025, Wednesday, October 22nd at 08:32 pm PST)
+//// Line count (including blank lines and compiler line): 45
+//// ----------------------------------------------------- \\\\
 
 //// End of file
